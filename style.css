@@ -1,6 +1,9 @@
 body {
     background-color: #cccccc;
 }
+img {
+     width: 100%;
+    }
 
 h1 {
     text-align: center;
