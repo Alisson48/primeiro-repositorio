@@ -14,6 +14,6 @@ p {
     font-size: 20px;
 }
 
-p em {
+em strong {
     color: RED;
 }
